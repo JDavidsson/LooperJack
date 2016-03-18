@@ -2,7 +2,7 @@
 
 Makes audio loops from a chosen input source. 
 
-## Features
+### Features
 
 * Record/Play audio
 * Simple GUI
@@ -25,6 +25,6 @@ To run LooperJack you need [Java] installed.
 
 #### Licence
 
-See [Licence].
+(MIT), See [Licence].
 
 [Licence]: <https://github.com/JDavidsson/LooperJack/blob/master/LICENSE>
