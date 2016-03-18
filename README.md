@@ -11,7 +11,7 @@ Makes audio loops from a chosen input source.
 
 
 
-![](https://github.com/JDavidsson/LooperJack/blob/master/gui_demo.png)
+<img src="https://github.com/JDavidsson/LooperJack/blob/master/gui_demo.png" width="200">
 
 
 ### Background
