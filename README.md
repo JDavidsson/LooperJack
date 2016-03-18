@@ -11,7 +11,7 @@ Makes audio loops from a chosen input source.
 
 
 
-![alt tag](https://github.com/JDavidsson/LooperJack/blob/master/gui_demo.png = 100x)
+![](https://github.com/JDavidsson/LooperJack/blob/master/gui_demo.png =100x)
 
 
 ### Background
