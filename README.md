@@ -25,4 +25,6 @@ To run LooperJack you need [Java] installed.
 
 #### Licence
 
-See [Licence]: <https://github.com/JDavidsson/LooperJack/blob/master/LICENSE>
+See [Licence].
+
+[Licence]: <https://github.com/JDavidsson/LooperJack/blob/master/LICENSE>
