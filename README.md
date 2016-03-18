@@ -9,6 +9,11 @@ Makes audio loops from a chosen input source.
 * Trim loops
 * Choice of sound quality 
 
+
+
+![alt tag](https://github.com/Oscar-Rydh/CompSec-Real/blob/master/gui_example.png)
+
+
 ### Background
 
 This program is much like a loop-pedal.
