@@ -2,6 +2,13 @@
 
 Makes audio loops from a chosen input source. 
 
+## Features
+
+* Record/Play audio
+* Simple GUI
+* Trim loops
+* Choice of sound quality 
+
 ### Background
 
 This program is much like a loop-pedal.
@@ -15,3 +22,7 @@ My aim is to be able to easily and quick make record audio-loops for e.g. practi
 To run LooperJack you need [Java] installed. 
 
 [Java]: <http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html>
+
+#### Licence
+
+See [Licence]: <https://github.com/JDavidsson/LooperJack/blob/master/LICENSE>
