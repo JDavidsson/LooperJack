@@ -37,7 +37,6 @@ $ java main.LooperJackMain
 [Java]: <http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html>
 
 #### Licence
-
 (MIT), See [Licence].
 
 [Licence]: <https://github.com/JDavidsson/LooperJack/blob/master/LICENSE>
@@ -46,7 +45,6 @@ $ java main.LooperJackMain
 ### Version & current state
 
 ##### 1.0
-
 The program works but there's a few bugs here and there. 
 
 
