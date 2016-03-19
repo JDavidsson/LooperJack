@@ -45,7 +45,7 @@ $ java main.LooperJackMain
 
 ### Version & current state
 
-* 1.0
+> 1.0
 The program works but there's a few bugs here and there. 
 
 
