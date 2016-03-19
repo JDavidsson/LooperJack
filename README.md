@@ -17,13 +17,6 @@ Makes audio loops from a chosen input source.
 
 The goal is to be able to easily and quickly make record audio loops for e.g. practice or play-a-long, much like a loop-pedal.
 
-### Version
-1.0
-
-#### Current state
-
-The program works but there's a few bugs here and there. 
-
 
 #### Installation
 
@@ -48,3 +41,13 @@ $ java main.LooperJackMain
 (MIT), See [Licence].
 
 [Licence]: <https://github.com/JDavidsson/LooperJack/blob/master/LICENSE>
+
+
+### Version & current state
+
+* 1.0
+The program works but there's a few bugs here and there. 
+
+
+
+
