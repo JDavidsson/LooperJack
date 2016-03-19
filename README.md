@@ -13,13 +13,17 @@ Makes audio loops from a chosen input source.
 <img src="https://github.com/JDavidsson/LooperJack/blob/master/gui_demo.png" width="350">
 
 
-### Background
+### Background and goals
 
-This program is much like a loop-pedal.
-The aim is to be able to easily and quickly make record audio loops for e.g. practice or play-a-long.
+The goal is to be able to easily and quickly make record audio loops for e.g. practice or play-a-long, much like a loop-pedal.
 
-#### Version
+### Version
 1.0
+
+#### Current state
+
+The program works but there's a few bugs here and there. 
+
 
 #### Installation
 
