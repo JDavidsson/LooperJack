@@ -22,7 +22,7 @@ The goal is to be able to easily and quickly make record audio loops for e.g. pr
 
 * First, to run LooperJack you need to have [Java] installed. 
 
-* cd to src folder and compile:
+* cd to src folder and compile :
 
 ```sh
 $ javac gui/*.java lj/*.java main/*.java
