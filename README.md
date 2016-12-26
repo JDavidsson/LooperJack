@@ -15,7 +15,7 @@ Makes audio loops from a chosen input source.
 
 ### Background and goals
 
-The goal is to be able to easily and quickly make record audio loops for e.g. practice or play-a-long, much like a loop-pedal.
+The goal is to be able to easily and quickly record audio loops for practice or play-a-long. Much like a loop-pedal.
 
 
 #### Installation
@@ -45,7 +45,7 @@ $ java main.LooperJackMain
 ### Version & current state
 
 ##### 1.0
-The program works but there's a few bugs here and there. 
+The program works but there's a few bugs here and there and is not thoroughly tested.
 
 
 
